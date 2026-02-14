@@ -6,7 +6,7 @@ const projects = [
     tech: "Next.js • Tailwind CSS • Framer Motion",
     desc: "Animated personal portfolio with interactive UI, glowing effects, smooth transitions, and responsive design.",
     github: "https://github.com/INTEN4bhi/ABHIJITH-PORTFOLIO",
-    live: "nvab.vercel.app",
+    /
   },
   {
     title: "Mini Cyber Lab – CISRT",
@@ -28,7 +28,7 @@ const projects = [
   type: "Web Development / Event Management",
   tech: "Next.js • React • Tailwind CSS • Framer Motion",
   desc: "Designed and developed a responsive TechFest website featuring event details, schedules, registration flow, and interactive UI with smooth animations.",
-  github: "#",
+  github: "https://github.com/INTEN4bhi/TECHATHONE",
   live: "https://infesta2k26.vercel.app/",
 },
 
