@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #060607;
+  color: white;
+  overflow-x: hidden;
+}
+
+/* Premium selection */
+::selection {
+  background: rgba(0, 163, 255, 0.45);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 163, 255, 0.35);
+}
