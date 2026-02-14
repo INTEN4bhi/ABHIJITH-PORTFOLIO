@@ -6,7 +6,6 @@ const projects = [
     tech: "Next.js • Tailwind CSS • Framer Motion",
     desc: "Animated personal portfolio with interactive UI, glowing effects, smooth transitions, and responsive design.",
     github: "https://github.com/INTEN4bhi/ABHIJITH-PORTFOLIO",
-    /
   },
   {
     title: "Mini Cyber Lab – CISRT",
