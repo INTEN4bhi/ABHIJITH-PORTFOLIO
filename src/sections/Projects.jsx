@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const projects = [
     {
     title: "Personal Portfolio Website",
-    tech: "Next.js • Tailwind CSS • Framer Motion",
+    tech: "React • Tailwind CSS • Framer Motion",
     desc: "Animated personal portfolio with interactive UI, glowing effects, smooth transitions, and responsive design.",
     github: "https://github.com/INTEN4bhi/ABHIJITH-PORTFOLIO",
   },
